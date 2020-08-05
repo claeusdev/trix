@@ -18,6 +18,7 @@ Trix.config.toolbar =
         <button type="button" class="trix-button trix-button--icon trix-button--icon-number-list" data-trix-attribute="number" title="#{lang.numbers}" tabindex="-1">#{lang.numbers}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-decrease-nesting-level" data-trix-action="decreaseNestingLevel" title="#{lang.outdent}" tabindex="-1">#{lang.outdent}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-increase-nesting-level" data-trix-action="increaseNestingLevel" title="#{lang.indent}" tabindex="-1">#{lang.indent}</button>
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-direction" data-trix-attribute="direction" title="#{lang.direction}" tabindex="-1">#{lang.direction}</button>
       </span>
 
       <span class="trix-button-group trix-button-group--file-tools" data-trix-button-group="file-tools">

@@ -41,3 +41,5 @@ Trix.config.blockAttributes = attributes =
     terminal: true
     parse: false
     group: false
+  direction:
+    tagName: "bdo"

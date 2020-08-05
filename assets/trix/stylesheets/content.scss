@@ -30,6 +30,12 @@
     overflow-x: auto;
   }
 
+  bdo {
+    display: block;
+    direction: rtl;
+    unicode-bidi: embed;
+  }
+
   ul, ol, li {
     margin: 0;
     padding: 0;
