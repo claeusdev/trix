@@ -1,7 +1,7 @@
 #= require trix/elements/trix_toolbar_element
 #= require trix/controllers/editor_controller
 
-{browser, config, makeElement, triggerEvent, handleEvent, handleEventOnce} = Trix
+{browser, makeElement, triggerEvent, handleEvent, handleEventOnce} = Trix
 
 {attachmentSelector} = Trix.AttachmentView
 
