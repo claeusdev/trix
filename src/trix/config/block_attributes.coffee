@@ -42,4 +42,4 @@ Trix.config.blockAttributes = attributes =
     parse: false
     group: false
   direction:
-    tagName: "bdo"
+    tagName: "div"
